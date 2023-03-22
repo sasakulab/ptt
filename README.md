@@ -2,6 +2,11 @@
 
 Pure TypeScript Template
 
+## Information
+
+Write your creativity in `src/index.ts`!
+Of course, You can write modules in `src`.
+
 ## npm run
 
 - `npm run build`
