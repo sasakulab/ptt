@@ -4,8 +4,18 @@ Pure TypeScript Template
 
 ## Information
 
-Write your creativity in `src/index.ts`!
-Of course, You can write modules in `src`.
+Write your creativity in `script/index.ts`!
+Of course, You can write modules in `script`.
+
+## Installation
+
+Please Install `serve` for test server.
+
+You should install `serve` in global.
+
+```sh
+npm install -g serve
+```
 
 ## npm run
 
@@ -17,4 +27,6 @@ Of course, You can write modules in `src`.
 
 - `npm run clean`
   - Delete All JavaScript files
-  
+
+- `npm run serve`
+  - Start Server
